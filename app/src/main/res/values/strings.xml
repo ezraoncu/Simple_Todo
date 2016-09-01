@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Todo</string>
+    <string name="add_button_text">Add</string>
+    <string name="add_item_hint">Enter new item</string>
+    <string name="title_activity_edit_item">EditItemActivity</string>
+    <string name="edit_item">Edit Item Below:</string>
+    <string name="save_button_text">Save</string>
+    <string name="editBelow">Edit Item Below</string>
+</resources>
